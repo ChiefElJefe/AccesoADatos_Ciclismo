@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f3897d-d6ef-40a2-bdbd-093dda13b537" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iesabastos/ciclismo/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iesabastos/ciclismo/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/iesabastos/ciclismo/AppTest.java" afterDir="false" />
+    <list default="true" id="f0f3897d-d6ef-40a2-bdbd-093dda13b537" name="Changes" comment="First">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/7N/Desktop/AccesoADatos_Ciclismo/src/main"
+    "last_opened_file_path": "C:/Users/7N/Desktop/AccesoADatos_Ciclismo"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,6 +49,21 @@
       <option name="presentableId" value="Default" />
       <updated>1673894290652</updated>
     </task>
+    <task id="LOCAL-00001" summary="First">
+      <created>1673894755277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673894755277</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First">
+      <created>1673894878512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673894878512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
   </component>
 </project>
